@@ -1,3 +1,12 @@
+## FURTHER IDEAS THAT I HAVE RE: DATA STRUCTURE
+- Maintain some sort of graph-/tree-/relational database that stores experimental runs/dates by name of dir and classifies based on metadata (i.e. different configs)
+  - Can also store experimental results as "metadata" as well  
+- Engineer new prompts for fundamental rules of the experiment
+  - this could eventually be turned into a web search agent or something that browses papers and automates the "domain knowledge gathering" part of things, especially with large-context like meta llama 4
+- Combine the overall agent system, i.e. using fundamental rules to query through the database, read what's necessary and see which "direction" is the right way (gathering this domain data should allow you to see bigger trends as well)
+
+Next steps: going from "these are ideas" to "this is a prototype we can build and test"
+
 ___
 
 # TODO -- 03 Apr 
